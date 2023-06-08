@@ -1,4 +1,4 @@
-# "Fu\*k-consolelog" is a substitute for `console.log()`
+# A plain substitute for `console.log()`
 
 ## Why use this package?
 

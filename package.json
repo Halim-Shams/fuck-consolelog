@@ -1,0 +1,22 @@
+{
+  "name": "fuck-consolelog",
+  "version": "1.0.0",
+  "description": "Prevent wasting time on typing two-word method (console.log()) instead use this package that provides you with one-word plain method (print()) method. Easy Peasy! Fu*k console.log(), embrace print()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halim-Shams/fuck-consolelog.git"
+  },
+  "keywords": [
+    "fuck-consolelog"
+  ],
+  "author": "Halim Shams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Halim-Shams/fuck-consolelog/issues"
+  },
+  "homepage": "https://github.com/Halim-Shams/fuck-consolelog#readme"
+}
